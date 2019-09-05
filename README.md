@@ -2,4 +2,4 @@
 
 The Psychic Game...my first struggle...err...foray  into Javascript.
 
-Mike carey
+Mike Carey
