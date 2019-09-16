@@ -31,7 +31,7 @@ document.onkeyup = function(event) {
     // reduces the numebr of guesses left
     guessesLeft--;
     document.getElementById("guessesLeft").innerHTML = guessesLeft;
-    // console.log(guessesLeft); 
+    console.log(guessesLeft); 
 
     // tracks each guess by user
     guessesMade.push(userGuess);
